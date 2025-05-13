@@ -1,5 +1,5 @@
 # RsxNeuronnes  
-A school **project** where we had to choose and implement a machine learning model in order to classify a set of pictures.
+A project where we had to choose and implement a machine learning model in order to classify a set of pictures.
 
 ## How to compile  
 
